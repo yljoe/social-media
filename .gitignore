@@ -1,0 +1,29 @@
+﻿# Dependencies and build output
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/tests/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test and cache output
+frontend/test-results/
+frontend/playwright-report/
+frontend/.vitest/
+frontend/.tmp/
+
+# Environment and local editor files
+.env
+.env.*
+*.log
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini

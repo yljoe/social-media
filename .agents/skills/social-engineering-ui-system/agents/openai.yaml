@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Engineering UI System"
+  short_description: "專案專用的繁中企業控制台 UI 設計與前端實作規範集"
+  default_prompt: "Use $social-engineering-ui-system to design or refine UI for this repository."

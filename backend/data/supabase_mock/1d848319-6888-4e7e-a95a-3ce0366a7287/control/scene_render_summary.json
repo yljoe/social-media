@@ -1,0 +1,53 @@
+[
+  {
+    "scene_key": "scene_001",
+    "run_id": "2090794f-4dbb-4c30-a184-5f99f7eb4d61",
+    "status": "completed",
+    "provider_name": "Google VEO",
+    "model": "Veo3.0",
+    "adapter_mode": "fallback_mock",
+    "external_job_id": "219bdb17-54c2-44f6-a8d6-e56bbe7a4fd0",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_001\\scene_001.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_001\\scene_001.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_001\\scene_001.srt"
+    }
+  },
+  {
+    "scene_key": "scene_002",
+    "run_id": "da74f8f3-33eb-422b-b652-af482231fe62",
+    "status": "completed",
+    "provider_name": "Google VEO",
+    "model": "Veo3.0",
+    "adapter_mode": "fallback_mock",
+    "external_job_id": "13e4b0cf-8961-4ad7-8969-d88313979b28",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_002\\scene_002.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_002\\scene_002.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_002\\scene_002.srt"
+    }
+  },
+  {
+    "scene_key": "scene_003",
+    "run_id": "1c6db2a4-f3c4-4580-a045-3d3154044e82",
+    "status": "completed",
+    "provider_name": "Google VEO",
+    "model": "Veo3.0",
+    "adapter_mode": "fallback_mock",
+    "external_job_id": "6d3311a3-9f01-445a-99ed-c473a53b900a",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_003\\scene_003.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_003\\scene_003.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\data\\gdrive_mock\\1d848319-6888-4e7e-a95a-3ce0366a7287\\scenes\\scene_003\\scene_003.srt"
+    }
+  }
+]

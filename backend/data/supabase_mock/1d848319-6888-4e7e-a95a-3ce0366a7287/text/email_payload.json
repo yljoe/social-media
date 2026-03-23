@@ -1,0 +1,17 @@
+{
+  "email_id": "email-1d848319-6888-4e7e-a95a-3ce0366a7287",
+  "task_id": "1d848319-6888-4e7e-a95a-3ce0366a7287",
+  "subject": "[資安演練通知] 員工資安意識提升與帳號保護",
+  "preview_text": "請閱讀本次演練說明，確認信件內容與回應流程。",
+  "body_text": "企業內部同仁 您好，\n\n本次訓練主題為「員工資安意識提升與帳號保護」。請依照內部流程閱讀演練信件，辨識可疑訊號，並在遇到異常要求時先查證、再回報。\n\n請勿直接點擊未知連結或開啟未經確認的附件。",
+  "cta_text": "開始閱讀演練內容",
+  "html_body": "<html><body style=\"font-family:'Noto Sans TC',sans-serif;background:#f6f1e7;padding:24px;\"><div style=\"max-width:680px;margin:0 auto;background:#fffdf8;border:1px solid #d9ccb7;padding:32px;\"><h1>[資安演練通知] 員工資安意識提升與帳號保護</h1><p>請閱讀本次演練說明，確認信件內容與回應流程。</p><p>企業內部同仁 您好，<br/><br/>本次訓練主題為「員工資安意識提升與帳號保護」。請依照內部流程閱讀演練信件，辨識可疑訊號，並在遇到異常要求時先查證、再回報。<br/><br/>請勿直接點擊未知連結或開啟未經確認的附件。</p><p>請於完成閱讀後進入訓練頁面確認理解內容。</p></div></body></html>",
+  "link_placeholder": "{{TRAINING_LINK}}",
+  "language": "zh-TW",
+  "llm_usage": {
+    "provider_id": "226631a9-10a0-4b6a-bbc2-de691f40e4f2",
+    "provider_name": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "template_name": "預設郵件模板"
+  }
+}

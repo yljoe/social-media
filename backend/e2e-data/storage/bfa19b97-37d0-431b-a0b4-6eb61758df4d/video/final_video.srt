@@ -1,0 +1,3 @@
+C:\Users\alvin\Desktop\社交工程內容生成平台\backend\e2e-data\storage\bfa19b97-37d0-431b-a0b4-6eb61758df4d\scenes\scene_001\scene_001.srt
+C:\Users\alvin\Desktop\社交工程內容生成平台\backend\e2e-data\storage\bfa19b97-37d0-431b-a0b4-6eb61758df4d\scenes\scene_002\scene_002.srt
+C:\Users\alvin\Desktop\社交工程內容生成平台\backend\e2e-data\storage\bfa19b97-37d0-431b-a0b4-6eb61758df4d\scenes\scene_003\scene_003.srt

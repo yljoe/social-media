@@ -1,0 +1,14 @@
+{
+  "input_mode": "topic",
+  "topic": "員工資安意識提升與帳號保護",
+  "raw_text": "",
+  "target_audience": "企業內部同仁",
+  "language": "繁體中文",
+  "text_provider_id": "",
+  "text_model": "gpt-4.1-mini",
+  "mail_template_id": "",
+  "storyboard_template_id": "",
+  "generate_storyboard": true,
+  "generate_mail": true,
+  "generate_quiz": true
+}

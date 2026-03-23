@@ -1,0 +1,12 @@
+{
+  "task_id": "1d848319-6888-4e7e-a95a-3ce0366a7287",
+  "currency": "USD",
+  "text_generation_cost": 0.002468,
+  "scene_generation_cost": 0.0,
+  "tts_cost": 0.0,
+  "subtitle_cost": 0.0,
+  "merge_cost": 0.0,
+  "grand_total": 0.002468,
+  "budget_limit": 10.0,
+  "within_budget": true
+}

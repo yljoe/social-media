@@ -1,0 +1,53 @@
+[
+  {
+    "scene_key": "scene_001",
+    "run_id": "527728ac-5580-4b8f-a2b6-3e226ff4e2f3",
+    "status": "completed",
+    "provider_name": "Generic REST Video",
+    "model": "generic-video-v1",
+    "adapter_mode": "mock",
+    "external_job_id": "8b4502cb-b252-41e7-8d1e-ea7bfb1b07c4",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_001\\scene_001.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_001\\scene_001.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_001\\scene_001.srt"
+    }
+  },
+  {
+    "scene_key": "scene_002",
+    "run_id": "470ae9f6-595a-43c0-9472-5cff18b6bcee",
+    "status": "completed",
+    "provider_name": "Generic REST Video",
+    "model": "generic-video-v1",
+    "adapter_mode": "mock",
+    "external_job_id": "f7de395a-2c29-4d3d-a604-ff5ce9c39c8c",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_002\\scene_002.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_002\\scene_002.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_002\\scene_002.srt"
+    }
+  },
+  {
+    "scene_key": "scene_003",
+    "run_id": "55943245-ab6f-4e25-92eb-e61b9cad3b44",
+    "status": "completed",
+    "provider_name": "Generic REST Video",
+    "model": "generic-video-v1",
+    "adapter_mode": "mock",
+    "external_job_id": "d6692714-f66d-457a-b8b3-842c3d9a8ee7",
+    "cost": {
+      "scene_total_cost": 0.22
+    },
+    "output_files": {
+      "mp4": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_003\\scene_003.mp4",
+      "mp3": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_003\\scene_003.mp3",
+      "srt": "C:\\Users\\alvin\\Desktop\\社交工程內容生成平台\\backend\\e2e-data\\storage\\bfa19b97-37d0-431b-a0b4-6eb61758df4d\\scenes\\scene_003\\scene_003.srt"
+    }
+  }
+]

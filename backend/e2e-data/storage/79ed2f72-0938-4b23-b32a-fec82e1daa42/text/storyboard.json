@@ -1,0 +1,116 @@
+{
+  "video_id": "video-79ed2f72-0938-4b23-b32a-fec82e1daa42",
+  "task_id": "79ed2f72-0938-4b23-b32a-fec82e1daa42",
+  "title": "員工資安意識提升與帳號保護",
+  "total_duration": 24,
+  "style": "comic",
+  "avatar_id": "platform-default-avatar",
+  "voice_id": "platform-default-voice",
+  "language": "zh-TW",
+  "video_profile": {
+    "preferred_vendor": "auto",
+    "preferred_model": "",
+    "duration_seconds": 24,
+    "aspect_ratio": "16:9",
+    "resolution": "1280x720",
+    "frame_rate": 24,
+    "audio_enabled": true,
+    "subtitle_enabled": true,
+    "allowed_vendors": [
+      "openai_sora",
+      "google_veo",
+      "seedance",
+      "runway"
+    ]
+  },
+  "vendor_targets": {},
+  "scenes": [
+    {
+      "scene_id": "scene_001",
+      "sequence": 1,
+      "duration_seconds": 8,
+      "goal": "用角色互動帶出事件起點與任務背景。",
+      "visual_prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「情境建立」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "onscreen_text": [
+        "情境建立",
+        "員工資安意識提升與帳號保護"
+      ],
+      "narration": "建立可信的工作情境，讓觀眾快速進入演練脈絡。",
+      "subtitle": "建立可信的工作情境，讓觀眾快速進入演練脈絡。",
+      "camera": "medium-shot",
+      "transition": "cut",
+      "asset_refs": [
+        "platform-default-avatar",
+        "platform-default-voice"
+      ],
+      "safety_notes": [
+        "避免出現真實個資",
+        "避免展示可直接濫用的釣魚內容"
+      ],
+      "vendor_overrides": {},
+      "llm_usage": {
+        "provider_id": "2da3d492-87fc-4a95-8fde-182bf04f7828",
+        "provider_name": "OpenAI",
+        "model": "gpt-4.1-mini"
+      }
+    },
+    {
+      "scene_id": "scene_002",
+      "sequence": 2,
+      "duration_seconds": 8,
+      "goal": "畫面要讓觀眾一眼看出不合理之處。",
+      "visual_prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「風險訊號」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "onscreen_text": [
+        "風險訊號",
+        "員工資安意識提升與帳號保護"
+      ],
+      "narration": "指出第一個應該停下來查證的異常訊號。",
+      "subtitle": "指出第一個應該停下來查證的異常訊號。",
+      "camera": "medium-shot",
+      "transition": "cut",
+      "asset_refs": [
+        "platform-default-avatar",
+        "platform-default-voice"
+      ],
+      "safety_notes": [
+        "避免出現真實個資",
+        "避免展示可直接濫用的釣魚內容"
+      ],
+      "vendor_overrides": {},
+      "llm_usage": {
+        "provider_id": "2da3d492-87fc-4a95-8fde-182bf04f7828",
+        "provider_name": "OpenAI",
+        "model": "gpt-4.1-mini"
+      }
+    },
+    {
+      "scene_id": "scene_003",
+      "sequence": 3,
+      "duration_seconds": 8,
+      "goal": "強調攻擊者的話術與流程設計。",
+      "visual_prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「攻擊手法」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "onscreen_text": [
+        "攻擊手法",
+        "員工資安意識提升與帳號保護"
+      ],
+      "narration": "拆解社交工程如何一步一步降低受害者戒心。",
+      "subtitle": "拆解社交工程如何一步一步降低受害者戒心。",
+      "camera": "medium-shot",
+      "transition": "cut",
+      "asset_refs": [
+        "platform-default-avatar",
+        "platform-default-voice"
+      ],
+      "safety_notes": [
+        "避免出現真實個資",
+        "避免展示可直接濫用的釣魚內容"
+      ],
+      "vendor_overrides": {},
+      "llm_usage": {
+        "provider_id": "2da3d492-87fc-4a95-8fde-182bf04f7828",
+        "provider_name": "OpenAI",
+        "model": "gpt-4.1-mini"
+      }
+    }
+  ]
+}

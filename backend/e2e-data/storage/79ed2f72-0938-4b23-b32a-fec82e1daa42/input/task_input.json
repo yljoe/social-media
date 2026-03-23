@@ -1,0 +1,16 @@
+{
+  "task_id": "79ed2f72-0938-4b23-b32a-fec82e1daa42",
+  "topic": "員工資安意識提升與帳號保護",
+  "scenario": "以企業內部帳號保護與可疑登入通知為主題，製作社交工程防護訓練。",
+  "target_audience": "企業內部同仁",
+  "language": "zh-TW",
+  "video_style": "comic",
+  "avatar_id": "platform-default-avatar",
+  "voice_id": "platform-default-voice",
+  "run_mode": "full",
+  "scene_id": null,
+  "budget_limit": {
+    "currency": "USD",
+    "max_total_cost": 10.0
+  }
+}

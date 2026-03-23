@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase"
+  short_description: "Help with Supabase integration and migration tasks"
+  default_prompt: "Use $supabase to add or update Supabase support in this project."

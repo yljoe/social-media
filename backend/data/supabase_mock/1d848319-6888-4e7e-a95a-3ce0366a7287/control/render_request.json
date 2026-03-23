@@ -1,0 +1,59 @@
+{
+  "model": "",
+  "video_profile": {},
+  "vendor_targets": {},
+  "resolution": "1280x720",
+  "duration": 8,
+  "audio": {
+    "voice": "Platform Voice A",
+    "speed": 1.0,
+    "language": "繁體中文"
+  },
+  "subtitle": {
+    "enable": true,
+    "language": "繁體中文",
+    "font_family": "Noto Sans TC",
+    "position": "bottom",
+    "color": "#FFFFFF",
+    "size": 28
+  },
+  "scenes": [
+    {
+      "scene_key": "scene_001",
+      "scene_title": "用角色互動帶出事件起點與任務背景。",
+      "prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「情境建立」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "narration": "建立可信的工作情境，讓觀眾快速進入演練脈絡。",
+      "subtitle": "建立可信的工作情境，讓觀眾快速進入演練脈絡。",
+      "duration": 8,
+      "vendor_overrides": {},
+      "avatar": "Platform Avatar A",
+      "voice": "Platform Voice A",
+      "style": "Default Style"
+    },
+    {
+      "scene_key": "scene_002",
+      "scene_title": "畫面要讓觀眾一眼看出不合理之處。",
+      "prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「風險訊號」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "narration": "指出第一個應該停下來查證的異常訊號。",
+      "subtitle": "指出第一個應該停下來查證的異常訊號。",
+      "duration": 8,
+      "vendor_overrides": {},
+      "avatar": "Platform Avatar A",
+      "voice": "Platform Voice A",
+      "style": "Default Style"
+    },
+    {
+      "scene_key": "scene_003",
+      "scene_title": "強調攻擊者的話術與流程設計。",
+      "prompt": "請為主題「員工資安意識提升與帳號保護」製作漫畫分鏡風格的訓練場景，聚焦「攻擊手法」，時長約 8 秒，呈現企業內部社交工程演練情境。",
+      "narration": "拆解社交工程如何一步一步降低受害者戒心。",
+      "subtitle": "拆解社交工程如何一步一步降低受害者戒心。",
+      "duration": 8,
+      "vendor_overrides": {},
+      "avatar": "Platform Avatar A",
+      "voice": "Platform Voice A",
+      "style": "Default Style"
+    }
+  ],
+  "async": true
+}

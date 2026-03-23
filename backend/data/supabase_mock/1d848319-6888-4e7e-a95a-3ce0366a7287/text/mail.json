@@ -1,0 +1,6 @@
+{
+  "template_name": "安全演練郵件樣板",
+  "subject": "[資安訓練通知] 員工資安意識提升與帳號保護",
+  "body_text": "企業內部同仁 您好：本次訓練將透過模擬社交工程情境，協助大家辨識可疑訊息、驗證異常要求，並依公司流程回報風險。請勿點擊不明連結或下載未知附件，並在接獲異常要求時先行查證。",
+  "body_html": "<html><body style=\"font-family:'Noto Sans TC',sans-serif;background:#f6f1e7;padding:24px;\"><div style=\"max-width:680px;margin:0 auto;background:#fffdf8;border:1px solid #d9ccb7;padding:32px;\"><h1>[資安訓練通知] 員工資安意識提升與帳號保護</h1><p>企業內部同仁 您好：本次訓練將透過模擬社交工程情境，協助大家辨識可疑訊息、驗證異常要求，並依公司流程回報風險。請勿點擊不明連結或下載未知附件，並在接獲異常要求時先行查證。</p><p>請於完成閱讀後依指示完成測驗與回報流程。</p></div></body></html>"
+}

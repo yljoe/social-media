@@ -1,0 +1,26 @@
+[
+  {
+    "scene_key": "scene_001",
+    "scene_title": "情境開場",
+    "prompt": "員工資安意識提升與帳號保護，畫面主題：情境開場，風格為企業培訓。",
+    "narration": "說明案例背景與情境脈絡。",
+    "subtitle": "說明案例背景與情境脈絡。",
+    "duration": 8
+  },
+  {
+    "scene_key": "scene_002",
+    "scene_title": "風險辨識",
+    "prompt": "員工資安意識提升與帳號保護，畫面主題：風險辨識，風格為企業培訓。",
+    "narration": "逐項指出可疑訊號與風險點。",
+    "subtitle": "逐項指出可疑訊號與風險點。",
+    "duration": 8
+  },
+  {
+    "scene_key": "scene_003",
+    "scene_title": "正確處置",
+    "prompt": "員工資安意識提升與帳號保護，畫面主題：正確處置，風格為企業培訓。",
+    "narration": "說明查證、回報與後續追蹤方式。",
+    "subtitle": "說明查證、回報與後續追蹤方式。",
+    "duration": 8
+  }
+]
