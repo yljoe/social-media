@@ -58,6 +58,28 @@ def default_workspace_profile_settings(
     }
 
 
+def clean_default_workspace_profile_settings(
+    default_text_provider_id: str = "",
+    default_video_provider_id: str = "",
+) -> dict[str, Any]:
+    return {
+        "default_language": "zh-TW",
+        "default_target_audience": "企業內部同仁",
+        "default_text_provider_id": default_text_provider_id,
+        "default_video_provider_id": default_video_provider_id,
+        "default_total_duration_seconds": 24,
+        "default_scene_duration_seconds": 8,
+        "default_resolution": "1280x720",
+        "default_aspect_ratio": "16:9",
+        "default_subtitle_enabled": True,
+        "default_subtitle_language": "繁體中文",
+        "default_font_family": "Noto Sans TC",
+        "default_render_style_asset_id": "",
+        "default_asset_provider_role": "google-drive",
+        "default_document_provider_role": "supabase-storage",
+    }
+
+
 def ensure_dirs() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     STORAGE_DIR.mkdir(parents=True, exist_ok=True)
@@ -251,7 +273,7 @@ def migrate_schema(db: sqlite3.Connection) -> None:
 
     workspace_profile_columns = table_columns(db, "workspace_profiles")
     if "settings_json" not in workspace_profile_columns:
-        default_settings_json = json.dumps(default_workspace_profile_settings(), ensure_ascii=False).replace("'", "''")
+        default_settings_json = json.dumps(clean_default_workspace_profile_settings(), ensure_ascii=False).replace("'", "''")
         db.execute(
             f"alter table workspace_profiles add column settings_json text not null default '{default_settings_json}'"
         )
@@ -373,7 +395,7 @@ def seed_defaults(db: sqlite3.Connection) -> None:
                 "workspace",
                 "OpenAI",
                 "https://api.openai.com/v1/chat/completions",
-                os.getenv("OPENAI_API_KEY", ""),
+                "",
                 "gpt-4.1-mini",
                 "global",
                 "",
